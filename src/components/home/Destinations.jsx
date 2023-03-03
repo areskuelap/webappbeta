@@ -21,7 +21,7 @@ const Destinations = () => {
       thumbnail: 'https://picsum.photos/id/1018/250/150/',
     },
     {
-      original: 'https://drive.google.com/uc?export=view&id=1Hb4-Yr3EiGpmJ_NqulcG07aOpjzipA-k/',
+      original: 'https://drive.google.com/uc?export=view&id=1Hb4-Yr3EiGpmJ_NqulcG07aOpjzipA-k',
       thumbnail: 'https://picsum.photos/id/1015/250/150/',
     },
     {
